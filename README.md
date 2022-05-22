@@ -7,8 +7,8 @@ As a teenager i never thought that programming will be my daily activity. Curren
 
 I am also an enthusiast of new technologies, automotive and video games. 🚗
   
-  ![xFlameyoke's GitHub stats](https://github-readme-stats.vercel.app/api?username=xflameyoke&show_icons=true)
+  ![xFlameyoke's GitHub stats](https://github-readme-stats.vercel.app/api?username=xflameyoke&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xflameyoke&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xflameyoke&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
